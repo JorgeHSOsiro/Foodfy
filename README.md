@@ -1,3 +1,3 @@
 # Foodfy
 
-Projeto em html da rocketseat
+Projeto da rocketseat
